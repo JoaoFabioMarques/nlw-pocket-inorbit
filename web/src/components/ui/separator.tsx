@@ -6,3 +6,5 @@ export function Separator(props: ComponentProps<'div'>) {
     <div {...props} className={twMerge('h-px bg-zinc-900', props.className)} />
   )
 }
+
+

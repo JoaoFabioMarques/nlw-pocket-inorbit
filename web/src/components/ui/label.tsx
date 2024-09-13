@@ -12,3 +12,4 @@ export function Label(props: ComponentProps<'label'>) {
     />
   )
 }
+
